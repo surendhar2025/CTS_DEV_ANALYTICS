@@ -1,4 +1,4 @@
 {{config(Materialized ='table')}}
 
 select * from 
-{{source('raw_qwt','RAW_ORDERS')}}
+{{source('raw_qwt','raw_orders')}}

@@ -6,3 +6,13 @@ sources:
     schema: RAW_DEV
     tables:
       - name: raw_customers
+      - name: raw_orders
+      - name: RAW_EMPLOYEE
+      
+      - name: raw_offices
+      - name: RAW_SHIPMENT
+
+   
+
+
+      
